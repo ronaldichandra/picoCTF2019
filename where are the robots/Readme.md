@@ -2,4 +2,4 @@
 
 > Copy disallow page
 
-> Replace robots.txt with disallow page you copied
+> Replace robots.txt with disallow page you have copied
