@@ -1,0 +1,3 @@
+> Install zsteg first, you can get it on https://github.com/zed-0xff/zsteg
+
+> Type command "zteg *png" and tada.....
